@@ -1,13 +1,12 @@
-# Custom Icon Maker
-**Look different home screen.**
+# Clubhouse Profile Picture Ring Maker
+**Be brighter in every room.**
 
-The app lets you create beautiful icons in a relaxed and fun way!
+Easily make your avatar unique and memorable. Get more followers, attraction and impression.
 
-Generated icons are pixel perfect and can be used in the "Open App" action of shortcuts and lets you personalize your home screen like never before. 
-- Turn any emoji into an icon. 
-- Over 2000 system glyphs. 
-- Hundreds of beautiful colors.
+The app was made with love and care to enable numerous ways you can express yourself in your profile picture:
 
-Icon Maker is the best companion for your favorite widget app. It lets you create beautiful icons in a fun and easy way! 
+- apply gradient or solid color borders
+- customize status badges with Emoji 
+- everything happens locally on your phone (des not collect any data from this app)
 
-![Malevich Icon Maker](/assets/landing.png)
+ Ring Maker is the best companion for Clubhouse app! 
