@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 
+app_description                           : Be brighter in every room. Get more followers, attraction and impression. 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,9 +34,18 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Customize Profile
-    description                           : Personalize your avatar and make it look different!
-    fontawesome_icon_name                 : pen-square
+
+  - title                                 : Easy-peasy 
+    description                           : Easily make your Clubhouse profile photo unique and memorable.
+    fontawesome_icon_name                 : birthday-cake
+    
+  - title                                 : Apply gradient or solid color borders
+    description                           : Hundreds of beautiful colors and fully customizable gradients 
+    fontawesome_icon_name                 : brush
+    
+  - title                                 : Customize status badges with emoji
+    description                           : Stand out from the crowd with unique icons
+    fontawesome_icon_name                 : smile
 
 
 # Theme Settings
@@ -48,7 +57,7 @@ cover_image                               : assets/headerimage.jpg              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.3
 
-device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
